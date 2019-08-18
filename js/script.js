@@ -13,9 +13,18 @@ function submition() {
 
   var boyNames = ["Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"];
   var girlNames = ["Akosua", " Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"];
-
-
-
+  if (document.getElementById("gender").checked) {
+    var gender = 'male';
+  }
+  else {
+    var gender = 'female';
+  }
+  if (dd <=0 || dd > 31) {
+    alert("invalid date");
+  }
+  else if (mm <=0 || mm > 12) {
+    alert("invalid month");
+  }
 
 
 }
