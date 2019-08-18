@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Akan</title>
+</head>
+
+<body>
+  <div class="container">
+    <h1>Akan Names </h1><br>
+    <div class="para">
+      <p>In Ghana, children are given their first name
+        as a 'day name', after the day of the week they were born.These names are called the <strong>Akan
+          Names</strong>.</p>
+      <p>This applcation is to help you know the day of the week you were born and your Akan Name corresponding to your
+        day and your gender.</p>
+
+      <p>Fill the information about your date of birth and gender in the form below to know your Akan Name: </p>
+    </div>
+
+    <div class="form">
+
+      <label>Day</label><br>
+      <input type="text" id="day" placeholder="Day in number" required><br><br>
+      <label>Month</label><br>
+      <input type="text" id="month" placeholder="Month in number" required><br><br>
+      <label>Year</label><br>
+      <input type="text" id="year" placeholder="Year in number" required><br><br>
+      <label>Gender</label><br>
+      <input type="radio" name="gender" id="gender" value="male" checked> Male<br>
+      <input type="radio" name="gender" value="female"> Female<br><br>
+    </div>
+    <a href="#result"><button type="button" name="button" class="btn btn-primary mb-2"
+        onclick="submition();">Submit</button></a>
+
+    <p id="display"></p>
+  </div>
+</body>
+
+</html>
