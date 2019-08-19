@@ -25,6 +25,9 @@ function submition() {
   else if (mm <= 0 || mm > 12) {
     alert("invalid month");
   }
+  else if (mm == 2 && dd > 29) {
+    alert("invalid day of month")
+  }
   else if (Math.round(result) == 0 && gender === 'male') {
     document.getElementById("final").innerHTML = ("You were born on Sunday,your Akan Name is " + maleNames[0]);
   }
