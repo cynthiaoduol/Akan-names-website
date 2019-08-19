@@ -19,7 +19,7 @@ The formula for calculating the day of the week had an error but i plan to work 
 ## Technologies Used
  To develop this webpage i used vs-code as my text editor.The site is built on HTML, CSS, Javascript and Bootstrap.
 ## Sample
-<!-- ![image](Pictures/akanname.jpg) -->
+![image](Pictures/akanname.jpg)
 ## Support and contact details
  Incase you come across errors, have questions, ideas ,concerns, or want to contribute to the page, feel free to reach me at :cynthiaobu940@gmail.com
  ### License
