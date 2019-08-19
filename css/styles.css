@@ -40,6 +40,12 @@ input[type=submit]{
 #last{
   font-family:'Tangerine', cursive
 }
+#final{
+  font-size: 35px
+}
 #flex{
   display:flex;
+}
+.jumbotron{
+  height:700px
 }
