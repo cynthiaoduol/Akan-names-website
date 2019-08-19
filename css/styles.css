@@ -1,7 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Tangerine&display=swap');
-/* body{
-  background-image: url(https://bashooka.com/wp-content/uploads/2018/04/scg-canvas-background-animation-19.jpg);
-} */
 h1{
   color:rgb(108, 192, 108);
   font-size:80px;
@@ -36,7 +33,7 @@ input[type=submit]{
 .para{
   font-size: 30px;
   color:white
-  /* background-image:url(https://bashooka.com/wp-content/uploads/2018/04/scg-canvas-background-animation-19.jpg); */
+  
 } 
 img{
   width:150px;
@@ -60,6 +57,5 @@ strong{
   color:rgb(18, 156, 18)
 }
 .container{
-  /* background-color: rgba(81, 156, 45, 0.568) */
   background-image: url(https://images.unsplash.com/photo-1483420271638-cc2e1e9c441e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60)
 }
