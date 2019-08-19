@@ -3,7 +3,7 @@
 #### By **Cynthia Oduol**
 ## Description
 github repository :https://github.com/cynthiaoduol/Akan-names-website.git
-gh-page :https://cynthiaoduol.github.io/portfoliAkan-names-website
+gh-page :https://cynthiaoduol.github.io/Akan-names-website
 In Ghana, people name their children after the day of the week they were born. The names are known as the Akan Names. THis application is to help the user identify the day of the week they were born and the Akan name he/she would have if they were in Ghana.
 ## Setup/Installation Requirements
 * Click on the github repository link in the description above to get to my repository
@@ -12,5 +12,15 @@ In Ghana, people name their children after the day of the week they were born. T
 * Then click on the clone/download button to get a link to clone or download 
 * pull the repository link to your local host
 * To open the live site click on the gh-page link in description.
+
 ## Known Bugs 
 The formula for calculating the day of the week had an error but i plan to work on it after perfect research on what the correct formula should be.
+
+## Technologies Used
+ To develop this webpage i used vs-code as my text editor.The site is built entirely on HTML and CSS
+## Support and contact details
+ Incase you come across errors, have questions, ideas ,concerns, or want to contribute to the page, feel free to reach me at :cynthiaobu940@gmail.com
+ ### License
+*MIT licence*
+Copyright (c) 2019 **Cynthia Oduol**
+
