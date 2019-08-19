@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Tangerine&display=swap');
+body{
+  background-image: url(https://bashooka.com/wp-content/uploads/2018/04/scg-canvas-background-animation-19.jpg);
+}
+h1{
+  color:rgb(108, 192, 108);
+  font-size:80px;
+  font-family: 'Abril Fatface', cursive;
+  text-align: center;
+}
+label{
+  color: rgb(18, 156, 18)
+}
+.form {
+ text-align: center;
+}
+input[type=text]{
+width: 20%;
+padding: 12px 20px;
+margin: 8px 0;
+box-sizing: border-box;
+}
+
+input[type=submit]{
+  width: 20%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  color: white;
+  background-color:blue;
+  box-shadow: 10px 10px white #34495E;
+}
+.sbmt{
+  text-align: center;
+}
+.para{
+  color:white;
+  font-size: 30px
+}
+#last{
+  font-family:'Tangerine', cursive
+}

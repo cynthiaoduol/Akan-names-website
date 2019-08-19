@@ -6,10 +6,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Akan</title>
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+  <link rel="stylesheet" type="text/css" href="css/styles.css">
 </head>
 
 <body>
   <div class="container">
+    <div class="col-md-6">
     <h1>Akan Names </h1><br>
     <div class="para">
       <p>In Ghana, children are given their first name
@@ -19,24 +22,28 @@
         day and your gender.</p>
 
       <p>Fill the information about your date of birth and gender in the form below to know your Akan Name: </p>
-    </div>
-
+    </div></div>
+    <div class="jumbotron">
     <div class="form">
 
       <label>Day</label><br>
-      <input type="text" id="day" placeholder="Day in number" required><br><br>
+      <input type="text" id="day" placeholder="Day in numbers" required><br><br>
       <label>Month</label><br>
-      <input type="text" id="month" placeholder="Month in number" required><br><br>
+      <input type="text" id="month" placeholder="Month in numbers" required><br><br>
       <label>Year</label><br>
-      <input type="text" id="year" placeholder="Year in number" required><br><br>
+      <input type="text" id="year" placeholder="Year in numbers" required><br><br>
       <label>Gender</label><br>
       <input type="radio" name="gender" id="gender" value="male" checked> Male<br>
       <input type="radio" name="gender" value="female"> Female<br><br>
     </div>
+    <div class="sbmt">
     <a href="#result"><button type="button" name="button" class="btn btn-primary mb-2"
         onclick="submition();">Submit</button></a>
-
+      </div>
+     <div id="last">
     <p id="final"></p>
+  </div>
+  </div>
   </div>
   <script src="js/script.js"></script>
 </body>
