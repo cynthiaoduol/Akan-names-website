@@ -24,6 +24,7 @@ The formula for calculating the day of the week had an error but i plan to work 
 * Javascript
 * Bootstrap
 
+
 ## BDD
 ##### Input
 Year- The year of birth
@@ -42,6 +43,7 @@ Akan name- The corresponding Akan name for the user eg.Kofi
 
 ## Support and contact details
  Incase you come across errors, have questions, ideas ,concerns, or want to contribute to the page, feel free to reach me at :cynthiaobu940@gmail.com
+ 
  ### License
 *MIT licence*
 Copyright (c) 2019 **Cynthia Oduol**
